@@ -19,7 +19,7 @@
         "Error Reporting"
     ],
     "require": {
-        "illuminate/support": ">=5.7",
+        "illuminate/support": ">=5.5",
         "google/cloud-error-reporting": "^0.12.1",
         "google/cloud-logging": "^1.14",
         "opencensus/opencensus": "^0.5.2",
